@@ -172,6 +172,8 @@ textarea::-webkit-outer-spin-button {
 }
 .oder-type-popup .icon {
   width: 100px;
+  height: auto;
+  color: #03c75a;
 }
 .oder-type-popup .desc {
   margin-top: 8px;
