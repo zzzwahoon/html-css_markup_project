@@ -3,6 +3,10 @@
 
 @import "./base/reset";
 @import "./base/preset";
+@import "./abstracts/mixin_common";
 
 @import "./components/order_type";
 @import "./components/header_area";
+@import "./pages/order_page";
+@import "./components/order_info_area";
+@import "./components/recent_order_area";
